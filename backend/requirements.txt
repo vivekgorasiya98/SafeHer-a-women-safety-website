@@ -12,3 +12,4 @@ Pillow
 django-filter
 geopy
 requests
+waitress
